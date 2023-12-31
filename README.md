@@ -34,7 +34,7 @@ The goal of this project is to create a sales dashboard that will help track and
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Bright136/Sales-Dashboard-with-PowerBI`
+1. Clone the repository: `git clone https://github.com/justinjabo250/Developing-and-Implementing-a-Sales-Dashboard-powered-with-PowerBi`
 
 2. Install dependencies: `PowerBI Desktop`
 
