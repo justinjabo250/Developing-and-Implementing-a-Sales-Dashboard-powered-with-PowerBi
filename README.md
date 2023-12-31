@@ -65,14 +65,14 @@ The goal of this project is to create a sales dashboard that will help track and
 <table>
   <tr>
     <th>Name</th>
-    <th>Twitter</th>
     <th>LinkedIn</th>
     <th>GitHub</th>
     <th>Hugging Face</th>
   </tr>
   <tr>
     <td>Justin Jabo</td>
-    <td><a href=" ">Justin Jabo</a></td>
-    <td><a href=" ">Justin Jabo</a></td>
+    <td><a href="https://www.linkedin.com/in/jabo-justin-2815341a2/">Justin Jabo</a></td>
+    <td><a href="https://github.com/justinjabo250">Justin Jabo</a></td>
+    <td><a href="https://huggingface.co/Justin-J">Justin Jabo</a></td>
   </tr>
 </table>
