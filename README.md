@@ -1,5 +1,7 @@
 # Developing-and-Implementing-a-Sales-Dashboard-powered-with-PowerBi
+
 The goal of this project is to create a sales dashboard that will help track and analyze sales performance by offering a summary of important sales metrics and visuals. Real-time data insights from the dashboard will help make better decisions and enhance sales tactics.
+
 ## Dashboard
 
 <img src="https://drive.google.com/uc?export=view&id=1nOdgo_2DY3UlSJf-Htd1RhEIaDAhajPB"/>
@@ -69,8 +71,8 @@ The goal of this project is to create a sales dashboard that will help track and
     <th>Hugging Face</th>
   </tr>
   <tr>
-    <td>Stella Oiro</td>
-    <td><a href="https://twitter.com/Stella_Oiro">@Stella_Oiro</a></td>
-    <td><a href="https://www.linkedin.com/in/stella-achar-oiro/">@Stella Oiro</a></td>
+    <td>Justin Jabo</td>
+    <td><a href=" ">Justin Jabo</a></td>
+    <td><a href=" ">Justin Jabo</a></td>
   </tr>
 </table>
